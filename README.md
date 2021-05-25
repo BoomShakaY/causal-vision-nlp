@@ -1,5 +1,46 @@
 # Causal in Vision & NLP
 
+- [Causal in Vision & NLP](#Causal in Vision & NLP)
+  * [Relative repo](#Relative repo)
+- [Survey](# Survey)
+- [Paper with code(mb)](#Paper with code(mb))
+  * [2021](#2021)
+  * [2020](#2020)
+  * [2019](#2019)
+  * [2018](#2018)
+  * [2017](#2017)
+  * [2016](#2016)
+- [Datasets](#Datasets)
+
+## Relative repo
+
+[Awesome Causality.](https://github.com/napsternxg/awesome-causality)
+Which compile major resources related to causality in one place under different categories.
+
+[awesome-causality-algorithms.](https://github.com/rguo12/awesome-causality-algorithms) 
+Which is an index of algorithms for learning causality with data. 
+
+[awesome-causality-data](https://github.com/rguo12/awesome-causality-data)
+Which is an index of datasets that can be used for learning causality. 
+
+[Awesome-Causality-in-CV.](https://github.com/Wangt-CN/Awesome-Causality-in-CV)
+Which is a curated list of causality in computer vision.
+
+[Awesome-Causal-Vision](https://github.com/wangzheng17/awesome-causal-vision)
+Which is also a list of research papers in exploring causality in vision.
+
+
+## Survey
+
+1. **A Survey of Learning Causality with Data: Problems and Methods.** Guo, R., Cheng, L., Li, J., Hahn, P. R., & Liu, H. (2020). A survey of learning causality with data: Problems and methods. ACM Computing Surveys (CSUR)
+[[Paper]](https://arxiv.org/pdf/1809.09337.pdf)
+[cite:74]
+
+2. **Causal inference** Kuang, K., Li, L., Geng, Z., Xu, L., Zhang, K., Liao, B., ... & Jiang, Z. (2020). Causal inference. Engineering.
+[[Paper]](https://www.sciencedirect.com/science/article/pii/S2095809919305235)
+[cite:15]
+
+
 
 ## Paper with code(mb) 
 The cite information is counted up to 05/2021
@@ -102,6 +143,18 @@ The cite information is counted up to 05/2021
 [cite:1]
 
 
+15. **Dependent Multi-Task Learning with Causal Intervention for Image Captioning** Chen, W., Tian, J., Fan, C., He, H., & Jin, Y., In International Journal of Applied and Creative Arts (*IJACA2021*)
+[[Paper]](https://arxiv.org/pdf/2105.08573.pdf)
+[[arXiv]](https://arxiv.org/abs/2105.08573)
+[cite:0]
+
+16. **Disentangled Generative Causal Representation Learning** Shen, X., Liu, F., Dong, H., Lian, Q., Chen, Z., & Zhang, T., arXiv preprint arXiv:2010.02637. (*Rejectded by ICLR21*)
+[[Paper]](https://openreview.net/pdf?id=agyFqcmgl6y)
+[[arXiv]](https://arxiv.org/abs/2010.02637)
+[[Code]](https://github.com/xwshen51/DEAR)
+[[Review]](https://openreview.net/forum?id=agyFqcmgl6y&noteId=TghOScY6Ygw)
+[cite:2]
+
 ### 2020
 1. **Unbiased scene graph generation from biased training.** Tang, Kaihua, et al. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020. (*CVPR 2020*)
 [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Tang_Unbiased_Scene_Graph_Generation_From_Biased_Training_CVPR_2020_paper.pdf) 
@@ -137,6 +190,18 @@ The cite information is counted up to 05/2021
 [[Review]](https://openreview.net/forum?id=S1g2skStPBhttps://wangt-cn.github.io/)
 [[Code]](https://github.com/huawei-noah/trustworthyAI)
 [cite:29]
+
+7. **DeVLBert: Learning Deconfounded Visio-Linguistic Representations.** Zhang, S., Jiang, T., Wang, T., Kuang, K., Zhao, Z., Zhu, J., ... & Wu, F. (2020, October). In Proceedings of the 28th ACM International Conference on Multimedia.
+[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3394171.3413518)
+[[arXiv]](https://arxiv.org/abs/2008.06884)
+[[Code]](https://github.com/shengyuzhang/DeVLBert)
+[cite:2]
+
+8. **Algorithmic Decision Making with Conditional Fairness.**  Xu, R., Cui, P., Kuang, K., Li, B., Zhou, L., Shen, Z., & Cui, W. (2020, August). In Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining.
+[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403263)
+[[arXiv]](https://arxiv.org/abs/2006.10483)
+[[Code]](https://github.com/windxrz/DCFR)
+[cite:0]
 
 ### 2019 
 1. **Causal reasoning from meta-reinforcement learning.** Dasgupta, I., Wang, J., Chiappa, S., Mitrovic, J., Ortega, P., Raposo, D., ICLR2019 
