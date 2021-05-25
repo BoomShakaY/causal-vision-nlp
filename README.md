@@ -11,6 +11,7 @@
   * [2017](#2017)
   * [2016](#2016)
 - [Datasets](#datasets)
+- [Video Reports](#video-reports)
 
 ## Relative repo
 
@@ -32,7 +33,7 @@ Which is also a list of research papers in exploring causality in vision.
 
 ## Survey
 
-1. **A Survey of Learning Causality with Data: Problems and Methods.** Guo, R., Cheng, L., Li, J., Hahn, P. R., & Liu, H. (2020). A survey of learning causality with data: Problems and methods. ACM Computing Surveys (CSUR)
+⏲️1. **A Survey of Learning Causality with Data: Problems and Methods.** Guo, R., Cheng, L., Li, J., Hahn, P. R., & Liu, H. (2020). A survey of learning causality with data: Problems and methods. ACM Computing Surveys (CSUR)
 [[Paper]](https://arxiv.org/pdf/1809.09337.pdf)
 [cite:74]
 
@@ -263,4 +264,10 @@ The cite information is counted up to 05/2021
 ## Datasets
 Waiting~
 
+## Video Reports
+Actually there are planty of vedios and courses on the internet, here is just some of them.
+
+- **Recent Progress of Causality in Vision.** Hanwang, Zhang from NTU (But it's in mandarin so it's might hard for some friends) [[Link]](https://hub.baai.ac.cn/activity/details/142)
+
+- **MIT OpenCourseWare in YouTube.** [[Link]](https://www.youtube.com/watch?v=gRkUhg9Wb-I&list=RDCMUCEBb1b_L6zDS3xTUrIALZOw&start_radio=1&rv=gRkUhg9Wb-I)
 
