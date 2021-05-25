@@ -1,16 +1,16 @@
-# Causal in Vision & NLP
+# Causal in Vision and NLP
 
-- [Causal in Vision & NLP](#Causal in Vision & NLP)
-  * [Relative repo](#Relative repo)
-- [Survey](# Survey)
-- [Paper with code(mb)](#Paper with code(mb))
+- [Causal in Vision and NLP](#causal-in-vision--and-nlp)
+  * [Relative repo](#relative-repo)
+- [Survey](#survey)
+- [Paper with code](#paper-with-code)
   * [2021](#2021)
   * [2020](#2020)
   * [2019](#2019)
   * [2018](#2018)
   * [2017](#2017)
   * [2016](#2016)
-- [Datasets](#Datasets)
+- [Datasets](#datasets)
 
 ## Relative repo
 
@@ -42,10 +42,10 @@ Which is also a list of research papers in exploring causality in vision.
 
 
 
-## Paper with code(mb) 
+## Paper with code
 The cite information is counted up to 05/2021
 
-### 2021 
+### 2021
 
 1. **Causal Attention for Vision-Language Tasks.** Yang, Xu, Zhang,H  et al., In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021. (*CVPR 2021*)
 [[Paper]](https://arxiv.org/pdf/2103.03493.pdf)
