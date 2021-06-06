@@ -40,6 +40,7 @@ Which is also a list of research papers in exploring causality in vision.
 
 2. **Causal inference** Kuang, K., Li, L., Geng, Z., Xu, L., Zhang, K., Liao, B., ... & Jiang, Z. (2020). Causal inference. Engineering.
 [[Paper]](https://www.sciencedirect.com/science/article/pii/S2095809919305235)
+[[Alternative]](https://www.semanticscholar.org/paper/Causal-Inference-Kuang-Li/03b01949c1d283b218fd79ca7efdb6a9aad12996?p2df)
 [cite:15]⏲️
 
 
