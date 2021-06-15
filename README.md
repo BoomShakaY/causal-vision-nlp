@@ -271,7 +271,7 @@ Actually there are planty of vedios and courses on the internet, here is just so
 
 - **Recent Progress of Causality in Vision.** Hanwang, Zhang from NTU (But it's in mandarin so it's might hard for some friends) [[Link]](https://hub.baai.ac.cn/activity/details/142)✔️
 
-- **MIT OpenCourseWare in YouTube.** [[Link]](https://www.youtube.com/watch?v=gRkUhg9Wb-I&list=RDCMUCEBb1b_L6zDS3xTUrIALZOw&start_radio=1&rv=gRkUhg9Wb-I)
+- **MIT OpenCourseWare in YouTube.** [[Link]](https://www.youtube.com/watch?v=gRkUhg9Wb-I&list=RDCMUCEBb1b_L6zDS3xTUrIALZOw&start_radio=1&rv=gRkUhg9Wb-I) ✔️
 
-- **Causal Inference and Stable Learning from ICML2019.** [[Link]](https://slideslive.com/38917403/causal-inference-and-stable-learning) 
+- **Causal Inference and Stable Learning from ICML2019.** [[Link]](https://slideslive.com/38917403/causal-inference-and-stable-learning) ✔️
 
