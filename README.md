@@ -263,8 +263,9 @@ The cite information is counted up to 05/2021
 [cite:310]
 
 
-## Datasets
-Waiting~
+## Books
+I highly recommand the book written by Judea pearl
+- **The Bok of Why**
 
 ## Video Reports
 Actually there are planty of vedios and courses on the internet, here is just some of them.
