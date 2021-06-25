@@ -55,6 +55,7 @@ The cite information is counted up to 05/2021
 [[arXiv]](https://arxiv.org/abs/2103.03493)
 [[Code]](https://github.com/yangxuntu/lxmertcatt)
 [cite:3]
+⏲️
 
 2. **Distilling Causal Effect of Data in Class-Incremental Learning.** Hu, X., Tang, K., Miao, C., Hua, X. S., & Zhang, H. (2021)., In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021. (*CVPR 2021*)
 [[arXiv]](https://arxiv.org/abs/2103.01737)
