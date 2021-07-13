@@ -55,12 +55,13 @@ The cite information is counted up to 05/2021
 [[arXiv]](https://arxiv.org/abs/2103.03493)
 [[Code]](https://github.com/yangxuntu/lxmertcatt)
 [cite:3]
-⏲️
+✔️
 
 2. **Distilling Causal Effect of Data in Class-Incremental Learning.** Hu, X., Tang, K., Miao, C., Hua, X. S., & Zhang, H. (2021)., In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021. (*CVPR 2021*)
 [[arXiv]](https://arxiv.org/abs/2103.01737)
 [[Code]](https://github.com/JoyHuYY1412/DDE_CIL)
-[cite:4]
+[cite:8]
+⏲️
 
 3. **Counterfactual Zero-Shot and Open-Set Visual Recognition.** Yue, Z., Wang, T., Zhang, H., Sun, Q., & Hua, X. S., In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021. (*CVPR 2021*)
 [[Paper]](https://arxiv.org/pdf/2103.00887.pdf)
@@ -137,7 +138,7 @@ The cite information is counted up to 05/2021
 [[supp]](https://openreview.net/attachment?id=7I12hXRi8F&name=supplementary_material)
 [cite:0]
 
-14. **Interpretable Models for Granger Causality Using Self-explaining Neural Networks**Marcinkevičs, R., & Vogt, J. E., In International Conference on Learning Representations. (*ICLR2021*)
+14. **Interpretable Models for Granger Causality Using Self-explaining Neural Networks.**Marcinkevičs, R., & Vogt, J. E., In International Conference on Learning Representations. (*ICLR2021*)
 [[Paper]](https://openreview.net/pdf?id=DEa4JdMWRHp)
 [[arXiv]](https://arxiv.org/abs/2101.07600)
 [[Code]](https://github.com/i6092467/GVAR)
@@ -147,17 +148,23 @@ The cite information is counted up to 05/2021
 [cite:1]
 
 
-15. **Dependent Multi-Task Learning with Causal Intervention for Image Captioning** Chen, W., Tian, J., Fan, C., He, H., & Jin, Y., In International Journal of Applied and Creative Arts (*IJACA2021*)
+15. **Dependent Multi-Task Learning with Causal Intervention for Image Captioning.** Chen, W., Tian, J., Fan, C., He, H., & Jin, Y., In International Journal of Applied and Creative Arts (*IJACA2021*)
 [[Paper]](https://arxiv.org/pdf/2105.08573.pdf)
 [[arXiv]](https://arxiv.org/abs/2105.08573)
 [cite:0]
 
-16. **Disentangled Generative Causal Representation Learning** Shen, X., Liu, F., Dong, H., Lian, Q., Chen, Z., & Zhang, T., arXiv preprint arXiv:2010.02637. (*Rejectded by ICLR21*)
+16. **Disentangled Generative Causal Representation Learning.** Shen, X., Liu, F., Dong, H., Lian, Q., Chen, Z., & Zhang, T., arXiv preprint arXiv:2010.02637. (*Rejectded by ICLR21*)
 [[Paper]](https://openreview.net/pdf?id=agyFqcmgl6y)
 [[arXiv]](https://arxiv.org/abs/2010.02637)
 [[Code]](https://github.com/xwshen51/DEAR)
 [[Review]](https://openreview.net/forum?id=agyFqcmgl6y&noteId=TghOScY6Ygw)
 [cite:2]
+
+17. **Adversarial Visual Robustness by Causal Intervention.** Tang, K., Tao, M., & Zhang, H. (2021). arXiv preprint arXiv:2106.09534.
+[[06.17]]
+[[arXiv]](https://arxiv.org/abs/2106.09534)
+[[Code]](https://github.com/KaihuaTang/Adversarial-Robustness-by-Causal-Intervention.pytorch)(not open yet)
+[cite:0]
 
 ### 2020
 1. **Unbiased scene graph generation from biased training.** Tang, Kaihua, et al. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020. (*CVPR 2020*)
