@@ -138,7 +138,7 @@ The cite information is counted up to 05/2021
 [[supp]](https://openreview.net/attachment?id=7I12hXRi8F&name=supplementary_material)
 [cite:0]
 
-14. **Interpretable Models for Granger Causality Using Self-explaining Neural Networks.**Marcinkevičs, R., & Vogt, J. E., In International Conference on Learning Representations. (*ICLR2021*)
+14. **Interpretable Models for Granger Causality Using Self-explaining Neural Networks.** Marcinkevičs, R., & Vogt, J. E., In International Conference on Learning Representations. (*ICLR2021*)
 [[Paper]](https://openreview.net/pdf?id=DEa4JdMWRHp)
 [[arXiv]](https://arxiv.org/abs/2101.07600)
 [[Code]](https://github.com/i6092467/GVAR)
