@@ -166,6 +166,13 @@ The cite information is counted up to 05/2021
 [[Code]](https://github.com/KaihuaTang/Adversarial-Robustness-by-Causal-Intervention.pytorch)(not open yet)
 [cite:0]
 
+18. **Counterfactual Attention Learning for Fine-Grained Visual Categorization and Re-identification.** Rao, Yongming, et al. ICCV (2021).
+[[Paper]](https://arxiv.org/abs/2108.08728.pdf)
+[[arXiv]](https://arxiv.org/abs/2108.08728)
+[[Code]](https://github.com/raoyongming/CAL)
+[cite:0]
+
+
 ### 2020
 1. **Unbiased scene graph generation from biased training.** Tang, Kaihua, et al. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020. (*CVPR 2020*)
 [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Tang_Unbiased_Scene_Graph_Generation_From_Biased_Training_CVPR_2020_paper.pdf) 
