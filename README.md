@@ -1,9 +1,10 @@
 # Causal in Vision and NLP
 
-- [Causal in Vision and NLP](#causal-in-vision--and-nlp)
+- [Causal in Vision and NLP](#causal-in-vision-and-nlp)
   * [Relative repo](#relative-repo)
 - [Survey](#survey)
 - [Paper with code](#paper-with-code)
+  * [2022](#2022)
   * [2021](#2021)
   * [2020](#2020)
   * [2019](#2019)
@@ -12,6 +13,7 @@
   * [2016](#2016)
 - [Datasets](#datasets)
 - [Video Reports](#video-reports)
+- [Tutorial](#tutorial)
 
 ## Relative repo
 
@@ -47,6 +49,9 @@ Which is also a list of research papers in exploring causality in vision.
 
 ## Paper with code
 The cite information is counted up to 05/2021
+
+### 2022
+
 
 ### 2021
 
@@ -163,13 +168,31 @@ The cite information is counted up to 05/2021
 17. **Adversarial Visual Robustness by Causal Intervention.** Tang, K., Tao, M., & Zhang, H. (2021). arXiv preprint arXiv:2106.09534.
 [[06.17]]
 [[arXiv]](https://arxiv.org/abs/2106.09534)
-[[Code]](https://github.com/KaihuaTang/Adversarial-Robustness-by-Causal-Intervention.pytorch)(not open yet)
+[[Code]](https://github.com/KaihuaTang/Adversarial-Robustness-by-Causal-Intervention.pytorch)
 [cite:0]
 
 18. **Counterfactual Attention Learning for Fine-Grained Visual Categorization and Re-identification.** Rao, Yongming, et al. ICCV (2021).
-[[Paper]](https://arxiv.org/abs/2108.08728.pdf)
+[[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Rao_Counterfactual_Attention_Learning_for_Fine-Grained_Visual_Categorization_and_Re-Identification_ICCV_2021_paper.pdf)
 [[arXiv]](https://arxiv.org/abs/2108.08728)
 [[Code]](https://github.com/raoyongming/CAL)
+[[suppp]](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Rao_Counterfactual_Attention_Learning_ICCV_2021_supplemental.pdf)
+[cite:1]
+
+19. **Causal Effect Inference for Structured Treatments.**  Kaddour, Jean, et al. Thirty-Fifth Conference on Neural Information Processing Systems. 
+[[Paper]](https://proceedings.neurips.cc/paper/2021/file/d02e9bdc27a894e882fa0c9055c99722-Supplemental.pdf)
+[[arXiv]](https://arxiv.org/abs/2106.01939)
+[[Code]](https://github.com/JeanKaddour/SIN)
+[cite:0]
+
+20. **Causal attention for unbiased visual recognition.** Wang, Tan, et al. Proceedings of the IEEE/CVF International Conference on Computer Vision. (*ICCV2021*).
+[[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Causal_Attention_for_Unbiased_Visual_Recognition_ICCV_2021_paper.pdf)
+[[arXiv]](https://arxiv.org/abs/2108.08782)
+[[Code]](https://github.com/wangt-cn/caam)
+[cite:3]
+
+21. **Spatial-temporal Causal Inference for Partial Image-to-video Adaptation.** Chen, Jin, et al. Proceedings of the AAAI Conference on Artificial Intelligence. (*AAAI2021*).
+[[Paper]](https://www.aaai.org/AAAI21Papers/AAAI-1546.ChenJ.pdf)
+[[Code]]
 [cite:0]
 
 
@@ -181,10 +204,11 @@ The cite information is counted up to 05/2021
 [[supp]](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Tang_Unbiased_Scene_Graph_CVPR_2020_supplemental.pdf)
 [cite:57]
 
-2. **Deconfounded Image Captioning: A Causal Retrospect.** Yang, X., Zhang, H., & Cai, J. (2020). arXiv preprint arXiv:2003.03923.
+2. **Deconfounded Image Captioning: A Causal Retrospect.** Yang, X., Zhang, H., & Cai, J. (2020) IEEE Transactions on Pattern Analysis and Machine Intelligence (*TPAMI2021*)
 [[Paper]](https://arxiv.org/pdf/2003.03923.pdf)
+[[Paper_IEEE]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9583890)
 [[arXiv]](https://arxiv.org/abs/2003.03923)
-[cite:16]
+[cite:32]
 
 3. **Causal Intervention for Weakly-Supervised Semantic Segmentation.** Zhang, D., Zhang, H., Tang, J., Hua, X., & Sun, Q., Advances in Neural Information Processing Systems 33 (*NeurIPS 2020*)
 [[Paper]](https://arxiv.org/pdf/2009.12547.pdf)
@@ -279,15 +303,18 @@ The cite information is counted up to 05/2021
 
 
 ## Books
-I highly recommand the book written by Judea pearl
+I highly recommend the book written by Judea pearl
 - **The Bok of Why**
 
 ## Video Reports
-Actually there are planty of vedios and courses on the internet, here is just some of them.
+Actually, there are plenty of videos and courses on the internet, here are just some of them.
 
-- **Recent Progress of Causality in Vision.** Hanwang, Zhang from NTU (But it's in mandarin so it's might hard for some friends) [[Link]](https://hub.baai.ac.cn/activity/details/142)✔️
+- **Recent Progress of Causality in Vision.** Hanwang, Zhang from NTU (But it's in mandarin, so it's might hard for some friends) [[Link]](https://hub.baai.ac.cn/activity/details/142)✔️
 
 - **MIT OpenCourseWare in YouTube.** [[Link]](https://www.youtube.com/watch?v=gRkUhg9Wb-I&list=RDCMUCEBb1b_L6zDS3xTUrIALZOw&start_radio=1&rv=gRkUhg9Wb-I) ✔️
 
 - **Causal Inference and Stable Learning from ICML2019.** [[Link]](https://slideslive.com/38917403/causal-inference-and-stable-learning) ✔️
+
+## Tutorial
+- **The Effect: An Introduction to Research Design and Causality.** [[Link]](https://www.theeffectbook.net/introduction.html)
 
