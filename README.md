@@ -48,7 +48,7 @@ Which is also a list of research papers in exploring causality in vision.
 
 
 ## Paper with code
-I am apologize for the non-accuracy cite information.
+I apologize for the non-accuracy cite information.
 
 ### 2022
 1. **Do learned representations respect causal relationships?** Wang L, Boddeti V.N,  In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022. (*CVPR 2022*)
