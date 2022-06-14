@@ -48,10 +48,71 @@ Which is also a list of research papers in exploring causality in vision.
 
 
 ## Paper with code
-The cite information is counted up to 05/2021
+I am apologize for the non-accuracy cite information.
 
 ### 2022
+1. **Do learned representations respect causal relationships?** Wang L, Boddeti V.N,  In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022. (*CVPR 2022*)
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Do_Learned_Representations_Respect_Causal_Relationships_CVPR_2022_paper.html)
+[[arXiv]](https://arxiv.org/abs/2204.00762)
+[[Code]](https://github.com/human-analysis/causal-relations-between-representations)
+[[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Wang_Do_Learned_Representations_CVPR_2022_supplemental.pdf)
+[cite:0]
 
+2. **OrphicX: A Causality-Inspired Latent Variable Model for Interpreting Graph Neural Networks** Lin W, Lan H, Wang H, et.al, In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022. (*CVPR 2022*)
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Lin_OrphicX_A_Causality-Inspired_Latent_Variable_Model_for_Interpreting_Graph_Neural_CVPR_2022_paper.html)
+[[arXiv]](http://arxiv.org/abs/2203.15209)
+[[Code]]
+[[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Lin_OrphicX_A_Causality-Inspired_CVPR_2022_supplemental.pdf)
+[cite:2]
+
+3. **C-CAM: Causal CAM for Weakly Supervised Semantic Segmentation on Medical Image** Chen Z, Tian Z, Zhu J, et.al, In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022. (*CVPR 2022*)
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_C-CAM_Causal_CAM_for_Weakly_Supervised_Semantic_Segmentation_on_Medical_CVPR_2022_paper.html)
+[[Code]](https://github.com/Tian-lab/C-CAM)
+[cite:0]
+
+4. **Causality Inspired Representation Learning for Domain Generalization** Lv F, Liang J, Li S, et.al, In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022. (*CVPR 2022*)
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Lv_Causality_Inspired_Representation_Learning_for_Domain_Generalization_CVPR_2022_paper.html)
+[[arXiv]](http://arxiv.org/abs/2203.14237)
+[[Code]]
+[[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Lv_Causality_Inspired_Representation_CVPR_2022_supplemental.zip)
+[cite:0]
+
+5. **Out-of-Distribution Generalization With Causal Invariant Transformations** Wang R, Yi M, Chen Z, et.al, In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022. (*CVPR 2022*)
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Out-of-Distribution_Generalization_With_Causal_Invariant_Transformations_CVPR_2022_paper.html)
+[[arXiv]](http://arxiv.org/abs/2203.11528)
+[[Code]]
+[[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Wang_Out-of-Distribution_Generalization_With_CVPR_2022_supplemental.pdf)
+[cite:0]
+
+6. **Show, Deconfound and Tell: Image Captioning With Causal Inference** Liu B, Wang D, Yang X, et.al, In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022. (*CVPR 2022*)
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Liu_Show_Deconfound_and_Tell_Image_Captioning_With_Causal_Inference_CVPR_2022_paper.html)
+[[Code]]
+[[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Liu_Show_Deconfound_and_CVPR_2022_supplemental.pdf)
+[cite:0]
+
+7. **Towards Robust and Adaptive Motion Forecasting: A Causal Representation Perspective** Liu Y, Cadei R, Schweizer J, et.al, In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022. (*CVPR 2022*)
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Liu_Towards_Robust_and_Adaptive_Motion_Forecasting_A_Causal_Representation_Perspective_CVPR_2022_paper.html)
+[[arXiv]](http://arxiv.org/abs/2111.14820)
+[[Code]](https://github.com/vita-epfl/causalmotion)
+[[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Liu_Towards_Robust_and_CVPR_2022_supplemental.pdf)
+[cite:0]
+
+8. **Causal Transportability for Visual Recognition** Mao C, Xia K, Wang J, et.al, In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022. (*CVPR 2022*)
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Mao_Causal_Transportability_for_Visual_Recognition_CVPR_2022_paper.html)
+[[arXiv]](http://arxiv.org/abs/2204.12363)
+[[Code]](https://github.com/cvlab-columbia/CT4Recognition)
+[cite:0]
+
+9. **Contextual Debiasing for Visual Recognition With Causal Mechanisms** Liu R, Liu H, Li G, et.al, In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022. (*CVPR 2022*)
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Liu_Contextual_Debiasing_for_Visual_Recognition_With_Causal_Mechanisms_CVPR_2022_paper.html)
+[[Code]]
+[cite:0]
+
+10. **Evaluating and Mitigating Bias in Image Classifiers: A Causal Perspective Using Counterfactuals** Dash S, Balasubramanian V.N, Sharma A, et.al, In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision. 2022. (*WACV 2022*)
+[[Paper]](https://openaccess.thecvf.com/content/WACV2022/html/Dash_Evaluating_and_Mitigating_Bias_in_Image_Classifiers_A_Causal_Perspective_WACV_2022_paper.html)
+[[arXiv]](http://arxiv.org/abs/2009.08270)
+[[supp]](https://openaccess.thecvf.com/content/WACV2022/supplemental/Dash_Evaluating_and_Mitigating_WACV_2022_supplemental.pdf)
+[cite:0]
 
 ### 2021
 
