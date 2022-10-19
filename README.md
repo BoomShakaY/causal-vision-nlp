@@ -105,7 +105,7 @@ I apologize for the non-accuracy cite information.
 
 9. **Contextual Debiasing for Visual Recognition With Causal Mechanisms** Liu R, Liu H, Li G, et.al, In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022. (*CVPR 2022*)
 [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Liu_Contextual_Debiasing_for_Visual_Recognition_With_Causal_Mechanisms_CVPR_2022_paper.html)
-[[Code]]
+[[Code]](https://github.com/farewellthree/Causal-Context-Debiasing)
 [cite:0]
 
 10. **Evaluating and Mitigating Bias in Image Classifiers: A Causal Perspective Using Counterfactuals** Dash S, Balasubramanian V.N, Sharma A, et.al, In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision. 2022. (*WACV 2022*)
