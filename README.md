@@ -114,6 +114,50 @@ I apologize for the non-accuracy cite information.
 [[supp]](https://openaccess.thecvf.com/content/WACV2022/supplemental/Dash_Evaluating_and_Mitigating_WACV_2022_supplemental.pdf)
 [cite:0]
 
+11. **Deep Multi-Modal Structural Equations For Causal Effect Estimation With Unstructured Proxies** Shachi Deshpande, Kaiwen Wang, Dhruv Sreenivas, Zheng Li, Volodymyr Kuleshov, Thirty-Sixth Conference on Neural Information Processing Systems. 2022. (*NIPS 2022*)
+[[Paper]](https://openreview.net/pdf?id=ByYFpTwgLGO)
+[[arXiv]](https://arxiv.org/abs/2203.09672)
+[[review]](https://openreview.net/forum?id=ByYFpTwgLGO)
+[cite:1]
+
+12. **Disentangling Causal Effects from Sets of Interventions in the Presence of Unobserved Confounders** Olivier Jeunen, Ciarán M. Lee, Rishabh Mehrotra, Mounia Lalmas, Thirty-Sixth Conference on Neural Information Processing Systems. 2022. (*NIPS 2022*)
+[[Paper]](https://openreview.net/pdf?id=ocViyp73pFO)
+[[arXiv]](https://arxiv.org/abs/2210.05446)
+[[review]](https://openreview.net/forum?id=ocViyp73pFO)
+[[Code]](https://github.com/olivierjeunen/disentangling-neurips-2022)
+[cite:0]
+
+
+13. **Contrastive Graph Structure Learning via Information Bottleneck for Recommendation** Chunyu Wei, Jian Liang, Di Liu, Fei Wang, Thirty-Sixth Conference on Neural Information Processing Systems. 2022. (*NIPS 2022*)
+[[Paper]](https://openreview.net/pdf?id=lhl_rYNdiH6)
+[[review]](https://openreview.net/forum?id=lhl_rYNdiH6)
+[[Code]](https://github.com/weicy15/CGI)
+[cite:0]
+
+14. **CEBaB: Estimating the Causal Effects of Real-World Concepts on NLP Model Behavior** Eldar David Abraham, Karel D'Oosterlinck, Amir Feder, Yair Ori Gat, Atticus Geiger, Christopher Potts, Roi Reichart, Zhengxuan Wu, Thirty-Sixth Conference on Neural Information Processing Systems. 2022. (*NIPS 2022*)
+[[Paper]](https://openreview.net/pdf?id=3AbigH4s-ml)
+[[review]](https://openreview.net/forum?id=3AbigH4s-ml)
+[[Code]](https://openreview.net/attachment?id=3AbigH4s-ml&name=supplementary_material)
+[cite:0]
+
+15. **An Adaptive Kernel Approach to Federated Learning of Heterogeneous Causal Effects** Thanh Vinh Vo, Arnab Bhattacharyya, Young Lee, Tze-Yun Leong, Thirty-Sixth Conference on Neural Information Processing Systems. 2022. (*NIPS 2022*)
+[[Paper]](https://openreview.net/pdf?id=fJt2KFnRqZ)
+[[review]](https://openreview.net/forum?id=fJt2KFnRqZ)
+[[Code]](https://github.com/vothanhvinh/CausalRFF)
+[cite:0]
+
+16. **Generalization Bounds for Estimating Causal Effects of Continuous Treatments** Xin Wang, Shengfei Lyu, Xingyu Wu, Tianhao Wu, Huanhuan Chen, Thirty-Sixth Conference on Neural Information Processing Systems. 2022. (*NIPS 2022*)
+[[Paper]](https://openreview.net/pdf?id=S0TR0W63NKl)
+[[review]](https://openreview.net/forum?id=S0TR0W63NKl)
+[[Code]](https://openreview.net/attachment?id=S0TR0W63NKl&name=supplementary_material)
+[cite:0]
+
+17. **Falsification before Extrapolation in Causal Effect Estimation** Zeshan Hussain, Michael Oberst, Ming-Chieh Shih, David Sontag, Thirty-Sixth Conference on Neural Information Processing Systems. 2022. (*NIPS 2022*)
+[[Paper]](https://openreview.net/pdf?id=OmLNqwnZwmY)
+[[review]](https://openreview.net/forum?id=OmLNqwnZwmY)
+[[Code]](https://github.com/clinicalml/rct-obs-extrapolation)
+[cite:0]
+
 ### 2021
 
 1. **Causal Attention for Vision-Language Tasks.** Yang, Xu, Zhang,H  et al., In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021. (*CVPR 2021*)
