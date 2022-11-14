@@ -158,6 +158,38 @@ I apologize for the non-accuracy cite information.
 [[Code]](https://github.com/clinicalml/rct-obs-extrapolation)
 [cite:0]
 
+18. **Learning Individualized Treatment Rules with Many Treatments: A Supervised Clustering Approach Using Adaptive Fusion** Haixu Ma, Donglin Zeng, Yufeng Liu, Thirty-Sixth Conference on Neural Information Processing Systems. 2022. (*NIPS 2022*)
+[[Paper]](https://openreview.net/pdf?id=nYrFghNHzz)
+[[review]](https://openreview.net/forum?id=nYrFghNHzz)
+[[Code]](https://openreview.net/attachment?id=OmLNqwnZwmY&name=supplementary_material)
+[cite:0]
+
+19. **Partial Identification of Treatment Effects with Implicit Generative Models** Vahid Balazadeh Meresht, Vasilis Syrgkanis, Rahul G Krishnan, Thirty-Sixth Conference on Neural Information Processing Systems. 2022. (*NIPS 2022*)
+[[Paper]](https://openreview.net/pdf?id=8cUGfg-zUnh)
+[[review]](https://openreview.net/forum?id=8cUGfg-zUnh)
+[[Code]](https://github.com/rgklab/partial_identification)
+[cite:0]
+
+20. **Debiased Causal Tree: Heterogeneous Treatment Effects Estimation with Unmeasured Confounding** Caizhi Tang, Huiyuan Wang, Xinyu Li, Qing Cui, Ya-Lin Zhang, Feng Zhu, Longfei Li, JUN ZHOU, Linbo Jiang, Thirty-Sixth Conference on Neural Information Processing Systems. 2022. (*NIPS 2022*)
+[[Paper]](https://openreview.net/pdf?id=B26CPuYw9VA)
+[[review]](https://openreview.net/forum?id=B26CPuYw9VA)
+[[Code]](https://openreview.net/attachment?id=B26CPuYw9VA&name=supplementary_material)
+[cite:0]
+
+21. **Sample Constrained Treatment Effect Estimation** Raghavendra Addanki, David Arbour, Tung Mai, Cameron N Musco, Anup Rao, Thirty-Sixth Conference on Neural Information Processing Systems. 2022. (*NIPS 2022*)
+[[Paper]](https://openreview.net/pdf?id=4X0q4uJ1fR)
+[[review]](https://openreview.net/forum?id=4X0q4uJ1fR)
+[[Code(ing)]](https://github.com/raddanki/Sample-Constrained-Treatment-Effect-Estimation)
+[cite:0]
+
+22. **Transfer Learning on Heterogeneous Feature Spaces for Treatment Effects Estimation** Ioana Bica, Mihaela van der Schaar, Thirty-Sixth Conference on Neural Information Processing Systems. 2022. (*NIPS 2022*)
+[[Paper]](https://openreview.net/pdf?id=nRcyGtY2kBC)
+[[review]](https://openreview.net/forum?id=nRcyGtY2kBC)
+[[Code]](https://github.com/ioanabica/HTCE-learners)
+[cite:0]
+
+
+
 ### 2021
 
 1. **Causal Attention for Vision-Language Tasks.** Yang, Xu, Zhang,H  et al., In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021. (*CVPR 2021*)
