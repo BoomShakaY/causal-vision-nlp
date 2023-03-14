@@ -50,6 +50,12 @@ Which is also a list of research papers in exploring causality in vision.
 ## Paper with code
 I apologize for the non-accuracy cite information.
 
+### 2023
+1. **Good is Bad: Causality Inspired Cloth-Debiasing for Cloth-Changing Person Re-Identification** Yang Z, Lin M, Zhong X, Wu Y , and Wang Z. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023. (*CVPR 2023*)
+[[Paper]]()
+[[Code]](https://github.com/BoomShakaY/AIM-CCReID)
+[cite:0]
+
 ### 2022
 1. **Do learned representations respect causal relationships?** Wang L, Boddeti V.N,  In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022. (*CVPR 2022*)
 [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Do_Learned_Representations_Respect_Causal_Relationships_CVPR_2022_paper.html)
