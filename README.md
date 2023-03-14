@@ -188,6 +188,160 @@ I apologize for the non-accuracy cite information.
 [[Code]](https://github.com/ioanabica/HTCE-learners)
 [cite:0]
 
+23. **Towards Unbiased Visual Emotion Recognition via Causal Intervention** 	Yuedong Chen, Xu Yang, Tat-Jen Cham, Jianfei Cai, ACM Multimedia. 2022. (*ACM MM 2022*)
+[[Paper]](https://dl.acm.org/doi/abs/10.1145/3503161.3547936)
+[[Code]](https://github.com/donydchen/causal_emotion)
+[cite:5]
+
+24. **Towards Causality Inference for Very Important Person Localization** 	Xiao Wang, Zheng Wang, Wu Liu, Xin Xu, Qijun Zhao, Shin'ichi Satoh, ACM Multimedia. 2022. (*ACM MM 2022*)
+[[Paper]](https://dl.acm.org/doi/abs/10.1145/3503161.3548014)
+[cite:0]
+
+25. **Counterfactual Reasoning for Out-of-distribution Multimodal Sentiment Analysis** 	Teng Sun, Wenjie Wang, Liqiang Jing, Yiran Cui, Xuemeng Song, Liqiang Nie, ACM Multimedia. 2022. (*ACM MM 2022*)
+[[Paper]](https://dl.acm.org/doi/10.1145/3503161.3548211)
+[[Code]](https://github.com/Teng-Sun/CLUE_model)
+[cite:3]
+
+26. **Towards Counterfactual Image Manipulation via CLIP** Yingchen Yu, Fangneng Zhan, Rongliang Wu, Jiahui Zhang, Shijian Lu, Miaomiao Cui, Xuansong Xie, Xian-Sheng Hua, Chunyan Miao, ACM Multimedia. 2022. (*ACM MM 2022*)
+[[Paper]](https://dl.acm.org/doi/abs/10.1145/3503161.3547935)
+[[Code]]()
+[cite:9]
+
+27. **Synthesizing Counterfactual Samples for Effective Image-Text Matching** 	Hao Wei, Shuhui Wang, Xinzhe Han, Zhe Xue, Bin Ma, Xiaoming Wei, Xiaolin Wei, ACM Multimedia. 2022. (*ACM MM 2022*)
+[[Paper]](https://dl.acm.org/doi/10.1145/3503161.3547814)
+[[Code]](https://github.com/weihao20/cfm)
+[cite:0]
+
+28. **Counterexample Contrastive Learning for Spurious Correlation Elimination** 	Jinqiang Wang, Rui Hu, Chaoquan Jiang, Rui Hu, Jitao Sang, ACM Multimedia. 2022. (*ACM MM 2022*)
+[[Paper]](https://dl.acm.org/doi/10.1145/3503161.3548155)
+[cite:0]
+
+29. **Counterfactually Measuring and Eliminating Social Bias in Vision-Language Pre-training Models** 		Yi Zhang, Junyang Wang, Jitao Sang, ACM Multimedia. 2022. (*ACM MM 2022*)
+[[Paper]](https://dl.acm.org/doi/10.1145/3503161.3548396)
+[cite:1]
+
+30. **Deconfounding Physical Dynamics with Global Causal Relation and Confounder Transmission for Counterfactual Prediction** Zongzhao Li, Xiangyu Zhu, Zhen Lei, Zhaoxiang Zhang, Association for the Advancement of Artificial Intelligence. 2022. (*AAAI 2022*)
+[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/19960)
+[[Code]](https://github.com/JeyesHan/P2LR)
+[cite:0]
+
+31. **AutoCFR: Learning to Design Counterfactual Regret Minimization Algorithms** 	Hang Xu, Kai Li, Haobo Fu, Qiang Fu, Junliang Xing, Association for the Advancement of Artificial Intelligence. 2022. (*AAAI 2022*)
+[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20460)
+[[Code]](https://github.com/rpSebastian/AutoCFR)
+[cite:1]
+
+32. **FOCUS: Flexible Optimizable Counterfactual Explanations for Tree Ensembles** 	HAna Lucic, Harrie Oosterhuis, Hinda Haned, Maarten de Rijke, Association for the Advancement of Artificial Intelligence. 2022. (*AAAI 2022*)
+[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20468)
+[[Code]](https://github.com/rpSebastian/AutoCFR)
+[cite:49]
+
+33. **Enhancing Counterfactual Classification Performance via Self-Training** Ruijiang Gao, Max Biggs, Wei Sun, Ligong Han, Association for the Advancement of Artificial Intelligence. 2022. (*AAAI 2022*)
+[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/206218)
+[[Code]](https://github.com/ruijiang81/CST)
+[cite:0]
+
+34. **Achieving Counterfactual Fairness for Causal Bandit** 	Wen Huang, Lu Zhang, Xintao Wu, Association for the Advancement of Artificial Intelligence. 2022. (*AAAI 2022*)
+[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20653)
+[cite:4]
+
+35. **Diverse, Global and Amortised Counterfactual Explanations for Uncertainty Estimates** Dan Ley, Umang Bhatt, Adrian Weller, Association for the Advancement of Artificial Intelligence. 2022. (*AAAI 2022*)
+[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20702)
+[cite:6]
+
+36. **Unsupervised Editing for Counterfactual Stories** Jiangjie Chen, Chun Gan, Sijie Cheng, Hao Zhou, Yanghua Xiao, Lei Li, Association for the Advancement of Artificial Intelligence. 2022. (*AAAI 2022*)
+[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20702)
+[[Code]](https://github.com/jiangjiechen/EDUCAT)
+[cite:4]
+
+37. **Debiasing NLU Models via Causal Intervention and Counterfactual Reasoning** Bing Tian, Yixin Cao, Yong Zhang, Chunxiao Xing, Association for the Advancement of Artificial Intelligence. 2022. (*AAAI 2022*)
+[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/21389)
+[cite:2]
+
+
+38. **Causal Intervention for Subject-Deconfounded Facial Action Unit Recognition** Yingjie Chen, Diqi Chen, Tao Wang, Yizhou Wang, Yun Liang, Association for the Advancement of Artificial Intelligence. 2022. (*AAAI 2022*)
+[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/19914)
+[cite:5]
+
+39. **Latent Space Explanation by Intervention** 	Itai Gat, Guy Lorberbom, Idan Schwartz, Tamir Hazan, Association for the Advancement of Artificial Intelligence. 2022. (*AAAI 2022*)
+[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/19948)
+[cite:3]
+
+40. **Interventional Multi-Instance Learning with Deconfounded Instance-Level Prediction** Tiancheng Lin, Hongteng Xu, Canqian Yang, Yi Xu, Association for the Advancement of Artificial Intelligence. 2022. (*AAAI 2022*)
+[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20051)
+[cite:4]
+
+41. **Efficient Causal Structure Learning from Multiple Interventional Datasets with Unknown Targets** Tiancheng Lin, Hongteng Xu, Canqian Yang, Yi Xu, Association for the Advancement of Artificial Intelligence. 2022. (*AAAI 2022*)
+[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20836)
+[cite:0]
+
+41. **A Causal Debiasing Framework for Unsupervised Salient Object Detection** 	Xiangru Lin, Ziyi Wu, Guanqi Chen, Guanbin Li, Yizhou Yu, Association for the Advancement of Artificial Intelligence. 2022. (*AAAI 2022*)
+[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20052)
+[cite:4]
+
+41. **A Causal Inference Look at Unsupervised Video Anomaly Detection** 	Xiangru Lin, Yuyang Chen, Guanbin Li, Yizhou Yu, Association for the Advancement of Artificial Intelligence. 2022. (*AAAI 2022*)
+[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20053)
+[cite:6]
+
+
+42. **Information-Theoretic Bias Reduction via Causal View of Spurious Correlation** 	Seonguk Seo, Joon-Young Lee, Bohyung Han, Association for the Advancement of Artificial Intelligence. 2022. (*AAAI 2022*)
+[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20115)
+[cite:7]
+
+43. **DeepVisualInsight: Time-Travelling Visualization for Spatio-Temporal Causality of Deep Classification Training** 	Xianglin Yang, Yun Lin, Ruofan Liu, Zhenfeng He, Chao Wang, Jin Song Dong, Hong Mei, Association for the Advancement of Artificial Intelligence. 2022. (*AAAI 2022*)
+[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20473)
+[cite:3]
+
+44. **On Testing for Discrimination Using Causal Models** 	Xianglin Yang, Yun Lin, Ruofan Liu, Zhenfeng He, Chao Wang, Jin Song Dong, Hong Mei, Association for the Advancement of Artificial Intelligence. 2022. (*AAAI 2022*)
+[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20494)
+[cite:1]
+
+
+45. **Reasoning about Causal Models with Infinitely Many Variables** 	Joseph Y. Halpern, Spencer Peters, Association for the Advancement of Artificial Intelligence. 2022. (*AAAI 2022*)
+[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20508)
+[cite:2]
+
+46. **A Hybrid Causal Structure Learning Algorithm for Mixed-Type Data** 	Yan Li, Rui Xia, Chunchen Liu, Liang Sun, Association for the Advancement of Artificial Intelligence. 2022. (*AAAI 2022*)
+[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20707)
+[[Code]](https://github.com/DAMO-DI-ML/AAAI2022-HCM)
+[cite:1]
+
+47. **On Causally Disentangled Representations** 	Abbavaram Gowtham Reddy, Benin Godfrey L, Vineeth N. Balasubramanian, Association for the Advancement of Artificial Intelligence. 2022. (*AAAI 2022*)
+[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20781)
+[[Code]](https://causal-disentanglement.github.io/IITH-CANDLE/)
+[cite:9]
+
+48. **VACA: Designing Variational Graph Autoencoders for Causal Queries** 	Pablo Sánchez-Martín, Miriam Rateike, Isabel Valera, Association for the Advancement of Artificial Intelligence. 2022. (*AAAI 2022*)
+[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20789)
+[[Code]](https://github.com/psanch21/VACA)
+[cite:1]
+
+49. **CausalGNN: Causal-Based Graph Neural Networks for Spatio-Temporal Epidemic Forecasting** Lijing Wang, Aniruddha Adiga, Jiangzhuo Chen, Adam Sadilek, Srinivasan Venkatramanan, Madhav V. Marathe, Association for the Advancement of Artificial Intelligence. AISI Track. 2022. (*AAAI 2022*)
+[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/21479)
+[cite:7]
+
+50. **Counterfactual Intervention Feature Transfer for Visible-Infrared Person Re-identification** Xulin Li, Yan Lu, Bin Liu, Yating Liu, Guojun Yin, Qi Chu, Jinyang Huang, Feng Zhu, Rui Zhao, Nenghai Yu, European Conference on Computer Vision. 2022. (*ECCV 2022*)
+[[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-19809-0_22)
+[cite:0]
+
+51. **STEEX: Steering Counterfactual Explanations with Semantics** 	Paul Jacob, Éloi Zablocki, Hédi Ben-Younes, Mickaël Chen, Patrick Pérez, Matthieu Cord, European Conference on Computer Vision. 2022. (*ECCV 2022*)
+[[Paper]](https://doi.org/10.1007/978-3-031-19775-8_23)
+[[Code]](https://github.com/valeoai/STEEX)
+[cite:7]
+
+52. **Making Heads or Tails: Towards Semantically Consistent Visual Counterfactuals** Simon Vandenhende, Dhruv Mahajan, Filip Radenovic, Deepti Ghadiyaram, European Conference on Computer Vision. 2022. (*ECCV 2022*)
+[[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-19775-8_16)
+[[Code]](https://github.com/facebookresearch/visual-counterfactuals)
+[cite:5]
+
+
+53. **Meta-Causal Feature Learning for Out-of-Distribution Generalization** 	Yuqing Wang, Xiangxian Li, Zhuang Qi, Jingyu Li, Xuelong Li, Xiangxu Meng, Lei Meng, European Conference on Computer Vision. Workshop. 2022. (*ECCV.W 2022*)
+[[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-25075-0_36)
+[cite:1]
+
+54. **Counterfactual Fairness for Facial Expression Recognition** Jiaee Cheong, Sinan Kalkan, Hatice Gunes:, European Conference on Computer Vision. Workshop. 2022. (*ECCV.W 2022*)
+[[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-25072-9_16)
+[cite:1]
+
 
 
 ### 2021
