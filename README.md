@@ -53,9 +53,12 @@ I apologize for the non-accuracy cite information.
 
 ### 2023
 1. **Good is Bad: Causality Inspired Cloth-Debiasing for Cloth-Changing Person Re-Identification** Yang Z, Lin M, Zhong X, Wu Y , and Wang Z. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023. (*CVPR 2023*)
-[[Paper]]()
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Han_Clothing-Change_Feature_Augmentation_for_Person_Re-Identification_CVPR_2023_paper.html)
 [[Code]](https://github.com/BoomShakaY/AIM-CCReID)
-[cite:0]
+[[supp]](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Han_Clothing-Change_Feature_Augmentation_CVPR_2023_supplemental.pdf)
+[cite:1]
+
+Wait for updating..........
 
 ### 2022
 1. **Do learned representations respect causal relationships?** Wang L, Boddeti V.N,  In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022. (*CVPR 2022*)
