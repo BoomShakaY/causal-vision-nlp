@@ -53,9 +53,9 @@ I apologize for the non-accuracy cite information.
 
 ### 2023
 1. **Good is Bad: Causality Inspired Cloth-Debiasing for Cloth-Changing Person Re-Identification** Yang Z, Lin M, Zhong X, Wu Y , and Wang Z. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023. (*CVPR 2023*)
-[[Paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Han_Clothing-Change_Feature_Augmentation_for_Person_Re-Identification_CVPR_2023_paper.html)
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_Good_Is_Bad_Causality_Inspired_Cloth-Debiasing_for_Cloth-Changing_Person_Re-Identification_CVPR_2023_paper.html)
 [[Code]](https://github.com/BoomShakaY/AIM-CCReID)
-[[supp]](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Han_Clothing-Change_Feature_Augmentation_CVPR_2023_supplemental.pdf)
+[[supp]](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Yang_Good_Is_Bad_CVPR_2023_supplemental.pdf)
 [cite:1]
 
 Wait for updating..........
