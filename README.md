@@ -58,7 +58,96 @@ I apologize for the non-accuracy cite information.
 [[supp]](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Yang_Good_Is_Bad_CVPR_2023_supplemental.pdf)
 [cite:1]
 
-Wait for updating..........
+2. **Discovering the Real Association: Multimodal Causal Reasoning in Video Question Answering** Zang C, Wang H, Pei M, and Liang W. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023. (*CVPR 2023*)
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Zang_Discovering_the_Real_Association_Multimodal_Causal_Reasoning_in_Video_Question_CVPR_2023_paper.html)
+[[Code]](https://github.com/Chuanqi-Zang/Discovering-the-Real-Association)
+[[supp]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zang_Discovering_the_Real_Association_Multimodal_Causal_Reasoning_in_Video_Question_CVPR_2023_paper.pdf)
+[cite:0]
+
+
+3. **Learning Distortion Invariant Representation for Image Restoration From a Causality Perspective** Li X, Li B, Jin X, Lan C, and Chen Z. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023. (*CVPR 2023*)
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Learning_Distortion_Invariant_Representation_for_Image_Restoration_From_a_Causality_CVPR_2023_paper.html)
+[[arXiv]](http://arxiv.org/abs/2303.06859)
+[[Code]](https://github.com/lixinustc/Causal-IR-DIL)
+[[supp]](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Li_Learning_Distortion_Invariant_CVPR_2023_supplemental.pdf)
+[cite:0]
+
+4. **Demystifying Causal Features on Adversarial Examples and Causal Inoculation for Robust Network by Adversarial Instrumental Variable Regression** Kim J, Lee B K, Ro Y M. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023. (*CVPR 2023*)
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Kim_Demystifying_Causal_Features_on_Adversarial_Examples_and_Causal_Inoculation_for_CVPR_2023_paper.html)
+[[arXiv]](http://arxiv.org/abs/2303.01052)
+[[supp]](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Kim_Demystifying_Causal_Features_CVPR_2023_supplemental.pdf)
+[cite:1]
+
+5. **Causally-Aware Intraoperative Imputation for Overall Survival Time Prediction** Li X, Qian X, Liang L, et al. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023. (*CVPR 2023*)
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Causally-Aware_Intraoperative_Imputation_for_Overall_Survival_Time_Prediction_CVPR_2023_paper.html)
+[[supp]](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Li_Causally-Aware_Intraoperative_Imputation_CVPR_2023_supplemental.pdf)
+[cite:0]
+
+6. **Layout-Based Causal Inference for Object Navigation** Zhang S, Song X, Li W, et al. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023. (*CVPR 2023*)
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_Layout-Based_Causal_Inference_for_Object_Navigation_CVPR_2023_paper.html)
+[[Code]](https://github.com/sx-zhang/Layout-based-sTDE)
+[[supp]](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Zhang_Layout-Based_Causal_Inference_CVPR_2023_supplemental.pdf)
+[cite:1]
+
+7. **Meta-Causal Learning for Single Domain Generalization** Chen J, Gao Z, Wu X, et al. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023. (*CVPR 2023*)
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Chen_Meta-Causal_Learning_for_Single_Domain_Generalization_CVPR_2023_paper.html)
+[[arXiv]](http://arxiv.org/abs/2304.03709)
+[[supp]](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Chen_Meta-Causal_Learning_for_CVPR_2023_supplemental.pdf)
+[cite:2]
+
+8. **CafeBoost: Causal Feature Boost To Eliminate Task-Induced Bias for Class Incremental Learning** Qiu B, Li H, Wen H, et al. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023. (*CVPR 2023*)
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Qiu_CafeBoost_Causal_Feature_Boost_To_Eliminate_Task-Induced_Bias_for_Class_CVPR_2023_paper.html)
+[[supp]](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Qiu_CafeBoost_Causal_Feature_CVPR_2023_supplemental.pdf)
+[cite:0]
+
+9. **Multi-View Adversarial Discriminator: Mine the Non-Causal Factors for Object Detection in Unseen Domains** Xu M, Qin L, Chen W, et al. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023. (*CVPR 2023*)
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Multi-View_Adversarial_Discriminator_Mine_the_Non-Causal_Factors_for_Object_Detection_CVPR_2023_paper.pdf)
+[[arXiv]](http://arxiv.org/abs/2304.02950)
+[[Code]](https://github.com/K2OKOH/MAD)
+[cite:0]
+
+10. **An Actor-Centric Causality Graph for Asynchronous Temporal Inference in Group Activity** Xie Z, Gao T, Wu K, Chang J. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023. (*CVPR 2023*)
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Xie_An_Actor-Centric_Causality_Graph_for_Asynchronous_Temporal_Inference_in_Group_CVPR_2023_paper.html)
+[cite:0]
+
+11. **Masked Images Are Counterfactual Samples for Robust Fine-Tuning** In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023. (*CVPR 2023*)
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Xiao_Masked_Images_Are_Counterfactual_Samples_for_Robust_Fine-Tuning_CVPR_2023_paper.html)
+[[arXiv]](http://arxiv.org/abs/2303.03052)
+[[supp]](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Xiao_Masked_Images_Are_CVPR_2023_supplemental.pdf)
+[[Code]](https://github.com/Coxy7/robust-finetuning)
+[cite:1]
+
+12. **Adversarial Counterfactual Visual Explanations** Jeanneret G, Simon L, Jurie F. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023. (*CVPR 2023*)
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Jeanneret_Adversarial_Counterfactual_Visual_Explanations_CVPR_2023_paper.html)
+[[arXiv]](http://arxiv.org/abs/2303.09962)
+[[supp]](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Jeanneret_Adversarial_Counterfactual_Visual_CVPR_2023_supplemental.pdf)
+[[Code]](https://github.com/guillaumejs2403/ACE)
+[cite:1]
+
+13. **GaitGCI: Generative Counterfactual Intervention for Gait Recognition** Dou H, Zhang P, Su W, et al. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023. (*CVPR 2023*)
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Dou_GaitGCI_Generative_Counterfactual_Intervention_for_Gait_Recognition_CVPR_2023_paper.html)
+[[supp]](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Dou_GaitGCI_Generative_Counterfactual_CVPR_2023_supplemental.pdf)
+[cite:2]
+
+14. **Grounding Counterfactual Explanation of Image Classifiers to Textual Concept Space** Kim S, Oh J, Lee S, et al. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023. (*CVPR 2023*)
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Kim_Grounding_Counterfactual_Explanation_of_Image_Classifiers_to_Textual_Concept_Space_CVPR_2023_paper.pdf)
+[[supp]](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Kim_Grounding_Counterfactual_Explanation_CVPR_2023_supplemental.pdf)
+[cite:0]
+
+15. **OCTET: Object-Aware Counterfactual Explanations** Zemni M, Chen M, Zablocki É, et al. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023. (*CVPR 2023*)
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Zemni_OCTET_Object-Aware_Counterfactual_Explanations_CVPR_2023_paper.html)
+[[arXiv]](http://arxiv.org/abs/2211.12380)
+[[supp]](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Zemni_OCTET_Object-Aware_Counterfactual_CVPR_2023_supplemental.pdf)
+[[Code]](https://github.com/valeoai/OCTET)
+[cite:2]
+
+16. **Interventional Bag Multi-Instance Learning On Whole-Slide Pathological Images** Lin T, Yu Z, Hu H, et al. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023. (*CVPR 2023*)
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Lin_Interventional_Bag_Multi-Instance_Learning_on_Whole-Slide_Pathological_Images_CVPR_2023_paper.html)
+[[arXiv]](http://arxiv.org/abs/2303.06873)
+[[supp]](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Lin_Interventional_Bag_Multi-Instance_CVPR_2023_supplemental.pdf)
+[[Code]](https://github.com/HHHedo/IBMIL)
+[cite:3]
+
 
 ### 2022
 1. **Do learned representations respect causal relationships?** Wang L, Boddeti V.N,  In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022. (*CVPR 2022*)
